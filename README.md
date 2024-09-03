@@ -1,5 +1,3 @@
 OUTPUT:
 
-![Figure_1](https://github.com/user-attachments/assets/8926412f-06e9-48eb-8b9d-819b2d7640d8)
-
-
+![Figure_1(1)](https://github.com/user-attachments/assets/f6983c1a-7d0e-4c55-aa1f-9371dcb7206d)

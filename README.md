@@ -1,6 +1,7 @@
 OUTPUT:
 
-![Figure_1](https://github.com/user-attachments/assets/8926412f-06e9-48eb-8b9d-819b2d7640d8)
+
+![Figure_1(1)](https://github.com/user-attachments/assets/af0b77bf-f503-46ee-b81c-e85c18e7d502)
 
 
 # Insurance Cost Analysis
